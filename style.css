@@ -20,6 +20,10 @@ body{
     text-align: center;
 }
 
+.card h1{
+    margin-bottom: 30px ;
+}
+
 .search{
     width: 100%;
     display: flex;
